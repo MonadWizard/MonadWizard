@@ -25,6 +25,10 @@
 ---
 <br />
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonadWizard)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Rakib's Github Stats](https://github-readme-stats.vercel.app/api?username=MonadWizard&count_private=true&theme=blue-green&show_icons=true) ![Your Repository's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard&theme=blue-green)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard)](https://github.com/anuraghazra/github-readme-stats) -->
