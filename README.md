@@ -4,7 +4,7 @@
 ## Hi there 👋, I am full stack software engineer 👩‍💻
 
 
-🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level Web development job.
+🔭 I'm currently building Projects in Django / Django REST and actively looking for an entry/mid level Web development job.
 
 🌱 I can build websites and web applications that backend (in Django/Django REST) with frontend (in React.js/Django Template) to solve real business problems. Apart from Software development, I am also building Machine Learning projects in python (Pandas, Numpy, Opencv, Scikit-learn, TensorFlow, joblib/pickle, YOLO, regex, etc). Other skills will be on my bucket list for the next few months are UNIT-test, CI/CD, TDD, Agile,  GraphQL, DevOps (AWS, GCP), Photoshop, and 10 pdf book reading.
 
