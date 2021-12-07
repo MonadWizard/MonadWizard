@@ -29,22 +29,22 @@
 [![Rakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonadWizard&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-![Rakib's Github Stats](https://github-readme-stats.vercel.app/api?username=MonadWizard&count_private=true&theme=blue-green&show_icons=true) ![Your Repository's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard&layout=compact&theme=blue-green)
-
+<!-- ![Rakib's Github Stats](https://github-readme-stats.vercel.app/api?username=MonadWizard&count_private=true&theme=blue-green&show_icons=true) ![Your Repository's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard&layout=compact&theme=blue-green)
+ -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Your Repository's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonadWizard&theme=blue-green) -->
 
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MonadWizard)   From June-11-2021  ![](https://komarev.com/ghpvc/?username=MonadWizard&color=green)
+<!-- 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MonadWizard)   From June-11-2021  ![](https://komarev.com/ghpvc/?username=MonadWizard&color=green) -->
 
 <!-- ![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonadWizard&theme=vue-dark&show_icons=true) -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MonadWizard)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MonadWizard) -->
 
 
 
