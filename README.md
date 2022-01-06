@@ -10,9 +10,9 @@
 
 👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.
 
-👯 I like to write Tech Blogs,post about my learning and experiences on my personal blog <a href="https://py-bangla-docs.tech/"><img height="26" src="https://py-bangla-docs.tech/images/company_logo.svg?raw=true"></a> . I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
+👯 I like to write Tech Blogs,post about my learning and experiences on my personal blog <a href="http://www.py-bangla.pagla.me/">py-bangla <img height="26" src="http://www.py-bangla.pagla.me/images/company_logo.svg?raw=true"></a> . I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do my pc customization,write Personal Blogs on markdown <a href="https://py-bangla-docs.tech/"><img height="16" src="https://py-bangla-docs.tech/images/company_logo.svg?raw=true"></a> or learn new technology. Also a member of <a href="https://www.hackerrank.com/monad_wizard_r">Hackerrank</a>&nbsp;&nbsp;.
+⚡ Fun fact: I like to do my pc customization,Also a member of <a href="https://www.hackerrank.com/monad_wizard_r">Hackerrank</a>&nbsp;&nbsp;.
 
 ### Available on:
 
